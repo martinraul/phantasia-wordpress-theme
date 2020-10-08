@@ -9,7 +9,6 @@ There are more than two hundred references to phantasia in the Discourses and ni
 ![Screenshot](https://i.imgur.com/tSzWpDB.jpg)
 
 ## How to Install
-`
 1. Download the theme file. You don’t need to unzip or extract it, just know where it’s saved on your computer.  
 
 2. Head to your WordPress Dashboard and go to Appearance → Themes. Click Add New and then Upload Theme. You now want to select the zip file you’ve just downloaded. Press Install Now, and WordPress will upload the theme to your site. Once that’s done, press Activate and the theme will be running on your site.  
